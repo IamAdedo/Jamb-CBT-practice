@@ -33,25 +33,26 @@ First off, thank you for considering contributing to this project! Your help wil
 ### Code Contributions
 1. **Fork** the repository
 2. **Clone** your fork:
+
    ```bash
    git clone https://github.com/IamAdedo/jamb-cbt-practice.git
    cd jamb-cbt-practice
    ```
-3. Create a **new branch**:
+4. Create a **new branch**:
    ```bash
    git checkout -b feat/add-new-subject
    ```
-4. Make your changes
-5. **Test** your changes thoroughly
-6. Commit with a descriptive message:
+5. Make your changes
+6. **Test** your changes thoroughly
+7. Commit with a descriptive message:
    ```bash
    git commit -m "feat: add Biology 2023 questions"
    ```
-7. Push to your fork:
+8. Push to your fork:
    ```bash
    git push origin feat/add-new-subject
    ```
-8. Open a **Pull Request** against the `main` branch
+9. Open a **Pull Request** against the `main` branch
 
 ### Non-Code Contributions
 - 📝 Add/verify exam questions
