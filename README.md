@@ -1,6 +1,3 @@
-# Jamb-CBT-practice
-A free, open-source JAMB CBT exam simulator for Nigerian students. Practice with real past questions, offline support, and performance analytics.
-
 # **JAMB CBT Practice Portal**  
 *A Free, Open-Source Exam Simulator for Nigerian Students*  
 
@@ -85,14 +82,13 @@ MIT License → **Use, modify, distribute freely!**
 
 ## **💬 Join Us**  
 - **GitHub Discussions**: [Contribute Ideas](#)  
-- **Email**: team@jambpractice.ng  
-- **Twitter**: [@JAMBPractice](#)  
 
 **Let’s build this together—for the future, for Nigeria.** 🚀  
 
----  in
+---
 
 🔹 *Inspired by the 2025 JAMB mass failure crisis. Dedicated to every student who deserves a fair chance.*
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
