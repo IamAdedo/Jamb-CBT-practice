@@ -102,21 +102,3 @@ All contributors will be:
 Reach out to [@IamAdedo](https://github.com/IamAdedo) or open a discussion in our [GitHub Discussions](https://github.com/IamAdedo/jamb-cbt-practice/discussions).
 
 ---
-
-*This guide was adapted from [Standard Contribution Guidelines](https://github.com/github/docs/blob/main/CONTRIBUTING.md). Last updated: {insert date}*
-```
-
-Key features of this file:
-1. Personalized with your GitHub username (@IamAdedo)
-2. Clear contribution pathways for both technical and non-technical contributors
-3. Detailed project structure
-4. Simple getting started guide
-5. Professional yet welcoming tone
-
-To use:
-1. Save as `CONTRIBUTING.md` in your project root
-2. Replace `{insert date}` with the current date
-3. Update links as your project evolves
-4. Customize the project structure if needed
-
-This file will automatically show up in GitHub's "Contribute" section of your repository, making it easy for people to help with your project.
